@@ -1,0 +1,14 @@
+c:\users\luke\documents\visual studio 2013\Projects\CreateWavefrontObjFile\CreateWavefrontObjFile\bin\Debug\CreateWavefrontObjFile.exe.config
+c:\users\luke\documents\visual studio 2013\Projects\CreateWavefrontObjFile\CreateWavefrontObjFile\bin\Debug\CreateWavefrontObjFile.exe
+c:\users\luke\documents\visual studio 2013\Projects\CreateWavefrontObjFile\CreateWavefrontObjFile\bin\Debug\CreateWavefrontObjFile.pdb
+c:\users\luke\documents\visual studio 2013\Projects\CreateWavefrontObjFile\CreateWavefrontObjFile\obj\Debug\CreateWavefrontObjFile.csprojResolveAssemblyReference.cache
+c:\users\luke\documents\visual studio 2013\Projects\CreateWavefrontObjFile\CreateWavefrontObjFile\obj\Debug\CreateWavefrontObjFile.exe
+c:\users\luke\documents\visual studio 2013\Projects\CreateWavefrontObjFile\CreateWavefrontObjFile\obj\Debug\CreateWavefrontObjFile.pdb
+C:\Users\Luke\Desktop\CreateWavefrontObjFile\CreateWavefrontObjFile\bin\Debug\CreateWavefrontObjFile.exe.config
+C:\Users\Luke\Desktop\CreateWavefrontObjFile\CreateWavefrontObjFile\obj\Debug\CreateWavefrontObjFile.exe
+C:\Users\Luke\Desktop\CreateWavefrontObjFile\CreateWavefrontObjFile\obj\Debug\CreateWavefrontObjFile.pdb
+C:\Users\Luke\Desktop\CreateWavefrontObjFile\CreateWavefrontObjFile\bin\Debug\CreateWavefrontObjFile.exe
+C:\Users\Luke\Desktop\CreateWavefrontObjFile\CreateWavefrontObjFile\bin\Debug\CreateWavefrontObjFile.pdb
+C:\Users\Luke\Desktop\CreateWavefrontObjFile\CreateWavefrontObjFile\bin\Debug\CreateWavefrontObjFile.Library.dll
+C:\Users\Luke\Desktop\CreateWavefrontObjFile\CreateWavefrontObjFile\bin\Debug\CreateWavefrontObjFile.Library.pdb
+C:\Users\Luke\Desktop\CreateWavefrontObjFile\CreateWavefrontObjFile\obj\Debug\CreateWavefrontObjFile.csprojResolveAssemblyReference.cache

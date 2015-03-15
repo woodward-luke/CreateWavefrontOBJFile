@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateWavefrontObjFile", "CreateWavefrontObjFile\CreateWavefrontObjFile.csproj", "{2EA809EC-9969-4EB8-A53A-80CDDB967970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateWavefrontObjFile.Library", "CreateWavefrontObjFile.Library\CreateWavefrontObjFile.Library.csproj", "{48549FE2-76DB-4B7C-92D2-0AFA5E5BC88D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA809EC-9969-4EB8-A53A-80CDDB967970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA809EC-9969-4EB8-A53A-80CDDB967970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA809EC-9969-4EB8-A53A-80CDDB967970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA809EC-9969-4EB8-A53A-80CDDB967970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48549FE2-76DB-4B7C-92D2-0AFA5E5BC88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48549FE2-76DB-4B7C-92D2-0AFA5E5BC88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48549FE2-76DB-4B7C-92D2-0AFA5E5BC88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48549FE2-76DB-4B7C-92D2-0AFA5E5BC88D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

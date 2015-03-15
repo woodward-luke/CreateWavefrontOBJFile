@@ -1,0 +1,4 @@
+C:\Users\Luke\Desktop\CreateWavefrontObjFile\CreateWavefrontObjFile.Library\bin\Debug\CreateWavefrontObjFile.Library.dll
+C:\Users\Luke\Desktop\CreateWavefrontObjFile\CreateWavefrontObjFile.Library\bin\Debug\CreateWavefrontObjFile.Library.pdb
+C:\Users\Luke\Desktop\CreateWavefrontObjFile\CreateWavefrontObjFile.Library\obj\Debug\CreateWavefrontObjFile.Library.dll
+C:\Users\Luke\Desktop\CreateWavefrontObjFile\CreateWavefrontObjFile.Library\obj\Debug\CreateWavefrontObjFile.Library.pdb
